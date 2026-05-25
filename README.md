@@ -35,7 +35,7 @@ message = ["You won free money"]
 Output:
 
 ```python
-spam
+Spam
 ```
 
 ## Accuracy
