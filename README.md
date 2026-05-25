@@ -19,9 +19,15 @@ A beginner machine learning project that classifies spam and ham messages using 
 - Text Classification
 - Bag of Words
 - Naive Bayes Classification
+- Train/Test Split
+
+## How to Run
+```bash
+pip install -r requirements.txt
+python main.py
+```
 
 ## Example Prediction
-
 ```python
 message = ["You won free money"]
 ```
