@@ -47,7 +47,7 @@ print("Accuracy:", round(accuracy_score(Y_test,predictions),2))
 
 
 # Adding new message to test prediction
-message = ["You won free vacation"]
+message = ["You won free money"]
 prediction = model.predict(vectorizer.transform(message))
 
 print("Message:", message[0])
